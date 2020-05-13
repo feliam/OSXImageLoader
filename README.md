@@ -1,4 +1,4 @@
 OSXImageLoader
 ==============
 
-A small C program to exercise the core OSX image parsers
+A small C program to call the core OSX image parsers
